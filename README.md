@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Orlando0292
+- 👋 Hi,
   Eu  sou Orlando Silva, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
   <br>
   <br>
